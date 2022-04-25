@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "High-Fidelity Lab"
+title: "Numerical PDEs Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-TODO
 
 Research Overview
 ======
@@ -20,4 +18,10 @@ test list
 1. two 
 1. three 
 
+Group Overview
+======
+
+
+Latest News
+======
 a test url [orcid](http://orcid.org/0000-0001-6946-8523)
