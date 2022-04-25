@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "High-Fidelity Lab"
 title_separator          : "-"
-name                     : &name "David C. Del Rey Fernandez"
+name                     : &name "David C. Del Rey Fern&accutendez"
 description              : &description "personal description"
 url                      : https://dcdelrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
