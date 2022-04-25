@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "High-Fidelity Lab"
+title                    : "Numerical PDEs Lab"
 title_separator          : "-"
 name                     : &name "David C. Del Rey Fern&accutendez"
 description              : &description "personal description"
