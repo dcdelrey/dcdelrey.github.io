@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "David C. Del Rey Fernandez"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "1778 Colour.jpg"
+  bio              : "Assistant Professor"
+  location         : "Department of Applied Mathematics University of Waterloo"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RUmRNmQAAAAJ&hl=en"
-  email            : "dcdelrey@gmail.com"
+  email            : "ddelreyfernandez@uwaterloo.ca"
   researchgate     :  "https://www.researchgate.net/profile/David-Del-Rey-Fernandez"
   uri              :
   bitbucket        :
