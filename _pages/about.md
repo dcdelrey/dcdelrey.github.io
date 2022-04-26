@@ -45,26 +45,20 @@ ultrasound
 Group Overview
 ======
 
-| Group member      |                               |                     |     Degree                                                   |
-| -------------     |-----                          | ------------------- | ------------------------------------------------------------ |
-| [Paulo Zuniga](#) |<img src='/images/bio-photo.jpg' alt='Paulo Zuniga' width='100' height = '100'> 
-                                                    | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
-| [Ben Simpson](#)  |<img src='/images/bio-photo.jpg' alt='Ben Simpson' width='100' height = '100'>
-                                                    | Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
-| [Dongze Li](#)    |<img src='/images/bio-photo.jpg' alt='Dongze Li' width='100' height = '100'>                             
-                                                    | Spring 2022         | Masters                                                      |
-| [Zhongyu Xie](#)  |<img src='/images/bio-photo.jpg' alt='Zhongyu Xie' width='100' height = '100'>                             
-                                                    | Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
+| Group member      |     |                     |     Degree                                                   |
+| -------------     |-----| ------------------- | ------------------------------------------------------------ |
+| [Paulo Zuniga](#) |<img src='/images/bio-photo.jpg' alt='Paulo Zuniga' width='100' height = '100'>| Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
+| [Ben Simpson](#)  |<img src='/images/bio-photo.jpg' alt='Ben Simpson' width='100' height = '100'>| Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
+| [Dongze Li](#)    |<img src='/images/bio-photo.jpg' alt='Dongze Li' width='100' height = '100'>| Spring 2022         | Masters                                                      |
+| [Zhongyu Xie](#)  |<img src='/images/bio-photo.jpg' alt='Zhongyu Xie' width='100' height = '100'>| Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
 
 Visiting Students 
 ======
 
-| Group member          |           |                   |     Degree                                                   |
+| Group member          |   |                   |     Degree                                                   |
 | -----------------     |   | ------ ---------- | ------------------------------------------------------------ |
-| [Somayeh Fouladi](#)  |<img src='/images/bio-photo.jpg' alt='Somayeh Fouladi' width='100' height = '100'>   
-                            | Fall 2021-present | PhD (co-supervised Prof. Sander Rhebergen)                   |
-| [Anita Gjesteland](#) |<img src='/images/bio-photo.jpg' alt='Anita Gjesteland' width='100' height = '100'>   
-                            | May 2022          | Masters University of Bergen                                 |
+| [Somayeh Fouladi](#)  |<img src='/images/bio-photo.jpg' alt='Somayeh Fouladi' width='100' height = '100'>| Fall 2021-present | PhD (co-supervised Prof. Sander Rhebergen)                   |
+| [Anita Gjesteland](#) |<img src='/images/bio-photo.jpg' alt='Anita Gjesteland' width='100' height = '100'>| May 2022          | Masters University of Bergen                                 |
 
 Prospective Students
 ======
