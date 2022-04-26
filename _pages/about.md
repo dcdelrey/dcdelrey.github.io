@@ -30,12 +30,12 @@ the provable properties of the base discretization. PDEs and physical applicatio
 Group Overview
 ======
 
-| Group member        |                     |     Degree                                                   |
-| -------------       | ------------------- | ------------------------------------------------------------ |
-| [Paulo Zuniga](#)   | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
-| [Ben Simpson](#)    | Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
-| [Dongze Li](#)      | Spring 2022         | Masters                                                      |
-| [Zhongyu Xie](#)    | Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
+| Group member      |----                         |                     |     Degree                                                   |
+| -------------     |                             | ------------------- | ------------------------------------------------------------ |
+| [Paulo Zuniga](#) |![picture](images/profile.png)      | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
+| [Ben Simpson](#)  |                             | Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
+| [Dongze Li](#)    |                             | Spring 2022         | Masters                                                      |
+| [Zhongyu Xie](#)  |                             | Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
 
 Visiting Students 
 ======
@@ -47,4 +47,6 @@ Visiting Students
 
 Latest News
 ======
+<!---
 #a test url [orcid](http://orcid.org/0000-0001-6946-8523)
+--->
