@@ -37,7 +37,7 @@ Group Overview
 
 | Group member      |                               |                     |     Degree                                                   |
 | -------------     |-----                          | ------------------- | ------------------------------------------------------------ |
-| [Paulo Zuniga](#) |![picture](./images/profile.png) | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
+| [Paulo Zuniga](#) |![picture](images/profile.png) | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
 | [Ben Simpson](#)  |                             | Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
 | [Dongze Li](#)    |                             | Spring 2022         | Masters                                                      |
 | [Zhongyu Xie](#)  |                             | Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
