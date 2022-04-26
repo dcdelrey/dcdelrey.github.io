@@ -14,21 +14,31 @@ Latest News
 1. The paper "Provably Stable Flux Reconstruction High-Order Methods on Curvilinear Elements" has been accepted in the Journal of Computational Physics (you can see a preprint here<!--- [here](./files/blah.pdf)--->)
 
 Research Overview
-======
-The research focus in the Numerical PDEs Lab is on developing efficient and robust numerical algorithms for the solution of 
-partial differential equations based on novel numerical methods with provable properties. We are broadly interested in numerical methods ranging from 
-finite-element methods (e.g., continuous and discontinuous Galerkin methods, flux reconstruction methods etc.), finite-difference methods, and finite-volume methods. 
-Example areas of ongoing research include: 
+===============================================================================
+The research focus in the Numerical PDEs Lab is on developing efficient and 
+robust numerical algorithms for the solution of partial differential equations 
+based on novel numerical methods with provable properties. We are broadly 
+interested in numerical methods. For example, there are projects on 
+finite-element methods (e.g., continuous and discontinuous Galerkin methods, 
+flux reconstruction methods etc.), finite-difference methods, and finite-volume 
+methods. We are also working on approaches to dealing with complex geometry 
+e.g., unstructured non-tensor-product elements (including space-time elements) 
+and overset approaches. Example areas of ongoing research include: 
 
-1. Arbitrary Lagrangian Eulerian discretizations for space-time meshes in d+1 dimensions 
+1. Arbitrary Lagrangian Eulerian discretizations using space-time elements in d+1 
+dimensions 
 1. h/p/r adaptive mesh refinement
 1. Linearly and nonlinearly stable discretizations
 
-For efficient computation, for example on high-performance computing hardware, we develop technologies that accelerate computations while maintaining 
-the provable properties of the base discretization. PDEs and physical applications of interest are broad and constantly growing; current areas are as follows: 
+For efficient computation, for example on high-performance computing hardware, we 
+develop technologies that accelerate computations while maintaining the provable 
+properties of the base discretization. PDEs and physical applications of interest 
+are broad and constantly growing; current areas are as follows: 
 
-1. Compressible Euler and Navier Stokes equations: Various applications in Aerospace Engineering  
-1. Mulitphase flows and linear/nonlinear wave equations: high intensity focused ultrasound 
+1. Compressible Euler and Navier Stokes equations: Various applications in Aerospace 
+Engineering  
+1. Mulitphase flows and linear/nonlinear wave equations: high intensity focused 
+ultrasound 
 1. Reaction diffusion and reaction convection diffusion equations: epidemic modeling 
 
 
