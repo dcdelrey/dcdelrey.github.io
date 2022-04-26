@@ -10,6 +10,8 @@ redirect_from:
 Latest News
 ======
 
+1. Masters student Anita Gjesteland from Pro. Magnus Svard's group at the University of Bergen will be visiting our group in May 
+1. The paper "Provably Stable Flux Reconstruction High-Order Methods on Curvilinear Elements" has been accepted in the Journal of Computational Physics (you can see a preprint here<!--- [here](./files/blah.pdf)>)
 Research Overview
 ======
 The research focus in the Numerical PDEs Lab is on developing efficient and robust numerical algorithms for the solution of 
@@ -24,7 +26,7 @@ Example areas of ongoing research include:
 For efficient computation, for example on high-performance computing hardware, we develop technologies that accelerate computations while maintaining 
 the provable properties of the base discretization. PDEs and physical applications of interest are broad and constantly growing; current areas are as follows: 
 
-1. Compressible Euler and Navier Stokes equations: Various applications in Aerospace Enginering  
+1. Compressible Euler and Navier Stokes equations: Various applications in Aerospace Engineering  
 1. Mulitphase flows and linear/nonlinear wave equations: high intensity focused ultrasound 
 1. Reaction diffusion and reaction convection diffusion equations: epidemic modeling 
 
@@ -34,7 +36,7 @@ Group Overview
 
 | Group member      |                               |                     |     Degree                                                   |
 | -------------     |-----                          | ------------------- | ------------------------------------------------------------ |
-| [Paulo Zuniga](#) ||![picture](images/profile.png) | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
+| [Paulo Zuniga](#) |![picture](./images/profile.png) | Winter 2022-present | PostDoc (co-supervised Prof. Sander Rhebergen)               |
 | [Ben Simpson](#)  |                             | Fall 2021-present   | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
 | [Dongze Li](#)    |                             | Spring 2022         | Masters                                                      |
 | [Zhongyu Xie](#)  |                             | Fall 2022           | Masters (co-supervised Prof. Sivabal Sivaloganathan          |
@@ -49,6 +51,11 @@ Visiting Students
 
 Prospective Students
 ======
+
+The Numerical PDEs Group has a variety of projects ranging from the abstract development of numerical methods to their practical application and 
+strong students with a range of skills are encouraged to apply. We specifically encourage, women and under represented students to apply to the group 
+and will consider non-standard indicators of merit. Interested students please send an email outlining potential research areas of interest
+ to Prof. David Del Rey Fernandez with a CV, transcript, and any relevant indicators of merit.   
 <!---
 Funding
 ======
