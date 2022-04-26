@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Numerical PDEs Lab"
 title_separator          : "-"
-name                     : &name "David C. Del Rey Fern&accutendez"
+name                     : &name "David C. Del Rey Fernandez"
 description              : &description "personal description"
 url                      : https://dcdelrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,8 @@ author:
   name             : "David C. Del Rey Fernandez"
   avatar           : "1778 Colour.jpg"
   bio              : "Assistant Professor"
-  location         : "Department of Applied Mathematics University of Waterloo"
+  location         : "Department of Applied Mathematics 
+                      University of Waterloo"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RUmRNmQAAAAJ&hl=en"
