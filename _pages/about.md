@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Latest News
+======
 
 Research Overview
 ======
@@ -45,7 +47,7 @@ Visiting Students
 | [Somayeh Fouladi](#)     | Fall 2021-present | PhD (co-supervised Prof. Sander Rhebergen)                   |
 | [Anita Gjesteland](#)    | May 2022          | Masters University of Bergen                                 |
 
-Latest News
+Prospective Students
 ======
 <!---
 #a test url [orcid](http://orcid.org/0000-0001-6946-8523)
