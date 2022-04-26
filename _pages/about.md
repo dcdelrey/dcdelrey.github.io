@@ -11,7 +11,8 @@ Latest News
 ======
 
 1. Masters student Anita Gjesteland from Pro. Magnus Svard's group at the University of Bergen will be visiting our group in May 
-1. The paper "Provably Stable Flux Reconstruction High-Order Methods on Curvilinear Elements" has been accepted in the Journal of Computational Physics (you can see a preprint here<!--- [here](./files/blah.pdf)>)
+1. The paper "Provably Stable Flux Reconstruction High-Order Methods on Curvilinear Elements" has been accepted in the Journal of Computational Physics (you can see a preprint here<!--- [here](./files/blah.pdf)--->)
+
 Research Overview
 ======
 The research focus in the Numerical PDEs Lab is on developing efficient and robust numerical algorithms for the solution of 
