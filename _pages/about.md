@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Numerical PDEs Lab"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,4 +24,4 @@ Group Overview
 
 Latest News
 ======
-a test url [orcid](http://orcid.org/0000-0001-6946-8523)
+#a test url [orcid](http://orcid.org/0000-0001-6946-8523)
